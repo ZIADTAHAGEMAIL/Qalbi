@@ -43,7 +43,6 @@
 
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/68adeebd-1cde-4cbd-a4e1-db5050a33494" width="180"><br><b> شاشة الاذكار</b></td>
-    
     <td align="center"><img src="https://github.com/user-attachments/assets/718ff69a-e0b8-4760-8d78-2e8377515ac4" width="180"><br><b>شاشة الأحاديث</b></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/5dd22ded-94e8-47e0-bb8f-0cd1829a93fe" width="180"><br><b>شاشة مواقيت الصلاة</b></td>
   </tr>
@@ -51,7 +50,6 @@
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/d8a2ecef-67c9-4cf2-abd0-b83624c6a1c3" width="180"><br><b> شاشة الاستماع للقران</b></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/e4ba8ead-648d-4a40-9999-24ac9c751663" width="180"><br><b>شاشة البحث عن الايات</b></td>
-    
     <td align="center"><img src="https://github.com/user-attachments/assets/78e1dda7-748d-44a2-aa79-280c1950fe13" width="180"><br><b>شاشة التفسير</b></td>
   </tr>
   
